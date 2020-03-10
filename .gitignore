@@ -1,6 +1,6 @@
 ### Local ###
 
-/features/log/
+#/features/log/*
 
 ### Ruby ###
 
